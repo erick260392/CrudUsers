@@ -1,0 +1,51 @@
+.App{
+    height: max-content;
+    width: 1200px;
+    background-color: #FFF6FF;
+}
+
+.card{
+   
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px;
+    
+}
+
+.form button{
+    margin: 10px;
+    padding: 5px;
+}
+
+.list li{
+    background-color: aliceblue;
+    height: fit-content;
+    width: 200px;
+    list-style:none;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.list h2,h3{
+    overflow: hidden;
+    padding: 7px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+
+
+.form{
+    background-color: #ADC5CF;
+    padding: 20px;
+    height: 200px;
+    border-radius: 20px;
+}
+
+.list{
+    overflow: scroll;
+
+}
